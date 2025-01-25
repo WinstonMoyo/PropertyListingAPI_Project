@@ -1,4 +1,4 @@
-# PropertyListingAPI_Project
+# Property Listing API and Client Project
 
 This project is a full-featured Property Listing and Booking API built with ASP.NET Core. It was designed to streamline room booking, cancellation, and information retrieval for properties near universities, making it a perfect demonstration of practical software engineering skills and cloud deployment practices.
 
